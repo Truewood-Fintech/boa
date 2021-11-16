@@ -5,3 +5,4 @@
 4) i love devops
 5) The lord is my strength
 6) i will finish well
+7) Amen
