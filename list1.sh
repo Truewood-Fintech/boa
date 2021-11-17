@@ -1,8 +1,9 @@
 # goals for 2022
-1) finish devops program
-2) devops is my life
-3) devops is great
-4) i love devops
-5) The lord is my strength
-6) i will finish well
-7) Amen
+echo "finish devops program"
+echo "devops is my life"
+echo "devops is great"
+echo "i love devops"
+echo "The lord is my strength"
+echo "i will finish well"
+echo "Amen"
+
