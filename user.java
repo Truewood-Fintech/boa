@@ -1,7 +1,9 @@
+#list of devops engineer
 simon
 percy
-elvis
+Kennedy
 sylvia 
 blessing
 Laura added in dev
 Bola added in dev
+
